@@ -18,7 +18,7 @@ The focus is on **pattern-level analytics**, not individual flight tracking.
 
 ## 🏗️ System Architecture
 
-![Flight Operations Analytics Architecture](assets/architecture.png)
+![Flight Operations Analytics Architecture](https://github.com/shreeramsundart/Real-Time-Flights-Analysis-Data-Engineering/blob/main/Flights%20Power%20BI%20Output.png)
 
 ### High-Level Flow
 1. Pull live flight data from a public REST API
@@ -122,3 +122,4 @@ The Gold layer enables dashboards such as:
 
 ```bash
 docker-compose up -d
+
